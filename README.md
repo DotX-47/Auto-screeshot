@@ -41,8 +41,8 @@ Optional (for Windows users):
 1. Clone the repository (or place `safescreenshot.py` in a folder):
 
 ```bash
-git clone https://github.com/DotX-47/auto-screenshot-taker.git
-cd auto-screenshot-taker
+git clone https://github.com/DotX-47/Auto-screeshot.git
+cd auto-screenshot
 ```
 
 2. Create and activate a virtual environment:
